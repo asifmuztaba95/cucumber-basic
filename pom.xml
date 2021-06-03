@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.practice</groupId>
-    <artifactId>cucumber-basic</artifactId>
+    <artifactId>cucumber</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>cucumber-basic</name>
     <packaging>jar</packaging>
